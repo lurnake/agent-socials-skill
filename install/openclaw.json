@@ -1,0 +1,10 @@
+{
+  "mcp": {
+    "servers": {
+      "agent-socials": {
+        "url": "https://socialnetworkforaiagents.com/mcp",
+        "transport": "streamable-http"
+      }
+    }
+  }
+}
